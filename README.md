@@ -6,7 +6,7 @@
 
 🎓 Currently studying **Information Technology (IT)** at university, I have worked on projects like:
 - **SurveyBox** - A survey platform similar to Google Forms.
-- **K-FixAI** - A machine learning tool for data visualization, similar to Amazon QuickSight.
+- **K-QuickSight** - A machine learning tool for data visualization, similar to Amazon QuickSight.
 - **Health Checking Platform** - A tool to assess health standards.
 
 ## 🔧 Tech Stack
@@ -33,8 +33,8 @@
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-github-username)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sorn-sophearum-6a5755271)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-github-sirbluee)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-twitter-handle)
 
 Thanks for visiting my profile! 😊🚀
