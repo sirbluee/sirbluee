@@ -1,41 +1,33 @@
-# Hi there! 👋 Welcome to My GitHub Profile
+# Sorn Sophearum
 
-## 🚀 About Me
+> API Developer ⋄ Backend Architecture ⋄ IT Student
 
-👨‍💻 I'm an API developer focusing on backend development, especially in banking APIs. With a strong foundation in **Next.js, Spring Boot, and Django REST Framework**, I build efficient and scalable applications.
+I build efficient, secure, and scalable backend systems, specializing in robust API integrations and streamlined deployments.
 
-🎓 Currently studying **Information Technology (IT)** at university, I have worked on projects like:
-- **SurveyBox** - A survey platform similar to Google Forms.
-- **K-QuickSight** - A machine learning tool for data visualization, similar to Amazon QuickSight.
-- **Health Checking Platform** - A tool to assess health standards.
+### ↳ About
+I am an Information Technology student and backend developer with a strong focus on secure banking APIs and automation. My work revolves around creating reliable architectures using modern frameworks, ensuring seamless deployments, and writing clean, maintainable code.
 
-## 🔧 Tech Stack
+### ↳ Current Focus
+* **Secure Integrations:** Implementing AES-256 and SHA-256 encrypted API integrations for financial platforms and payment gateways (like Wing Bank).
+* **Automation & CI/CD:** Orchestrating GitHub Actions to deploy Python-based bots to Google Cloud VMs and configuring Node.js environments on RHEL servers.
+* **Full-Stack Polish:** Building responsive, modern web interfaces utilizing Next.js.
 
-### 💻 Backend Development
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Django REST Framework](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+### ↳ Featured Projects
+* **SurveyBox** — A comprehensive survey platform tailored for streamlined data collection.
+* **K-QuickSight** — A machine learning-powered data visualization tool inspired by Amazon QuickSight.
+* **Health Checking Platform** — A reliable system designed to assess, track, and monitor health standards.
 
-### 🌐 Frontend Development
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+### ↳ Toolkit
+* **Languages:** Python, JavaScript, SQL
+* **Backend:** Spring Boot, Django REST Framework, Node.js
+* **Frontend:** Next.js, React
+* **Cloud & DevOps:** AWS, Google Cloud (GCP), Docker, GitHub Actions
 
-### ☁️ Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+### ↳ Metrics
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=sirbluee&theme=transparent&hide_border=true&show_icons=true&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sirbluee&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9" height="150" alt="Top Languages" />
+</div>
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sirbluee&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sirbluee&layout=compact&theme=radical)
-
-## 📫 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sorn-sophearum-6a5755271)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sirbluee)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-twitter-handle)
-
-Thanks for visiting my profile! 😊🚀
-
+### ↳ Connect
+[LinkedIn](https://www.linkedin.com/in/sorn-sophearum-6a5755271) • [GitHub](https://github.com/sirbluee) • [Twitter](https://twitter.com/your-twitter-handle)
