@@ -8,7 +8,7 @@ I build efficient, secure, and scalable backend systems, specializing in robust 
 I am an Information Technology student and backend developer with a strong focus on secure banking APIs and automation. My work revolves around creating reliable architectures using modern frameworks, ensuring seamless deployments, and writing clean, maintainable code.
 
 ### ↳ Current Focus
-* **Secure Integrations:** Implementing AES-256 and SHA-256 encrypted API integrations for financial platforms and payment gateways (like Wing Bank).
+* **Secure Integrations:** Implementing AES-256 and SHA-256 encrypted API integrations for financial platforms and payment gateways.
 * **Automation & CI/CD:** Orchestrating GitHub Actions to deploy Python-based bots to Google Cloud VMs and configuring Node.js environments on RHEL servers.
 * **Full-Stack Polish:** Building responsive, modern web interfaces utilizing Next.js.
 
@@ -24,8 +24,10 @@ I am an Information Technology student and backend developer with a strong focus
 * **Cloud & DevOps:** AWS, Google Cloud (GCP), Docker, GitHub Actions
 
 ### ↳ Metrics
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sirbluee&theme=transparent&hide_border=true&show_icons=true&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sirbluee&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sirbluee&theme=transparent&hide_border=true&show_icons=true&v=1)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sirbluee&layout=compact&theme=transparent&hide_border=true&v=1)
 
 ### ↳ Connect
 [LinkedIn](https://www.linkedin.com/in/sorn-sophearum-6a5755271) • [GitHub](https://github.com/sirbluee) • [Twitter](https://twitter.com/your-twitter-handle)
