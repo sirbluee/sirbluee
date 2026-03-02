@@ -24,10 +24,8 @@ I am an Information Technology student and backend developer with a strong focus
 * **Cloud & DevOps:** AWS, Google Cloud (GCP), Docker, GitHub Actions
 
 ### ↳ Metrics
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=sirbluee&theme=transparent&hide_border=true&show_icons=true&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sirbluee&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9" height="150" alt="Top Languages" />
-</div>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sirbluee&theme=transparent&hide_border=true&show_icons=true&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sirbluee&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9)
 
 ### ↳ Connect
 [LinkedIn](https://www.linkedin.com/in/sorn-sophearum-6a5755271) • [GitHub](https://github.com/sirbluee) • [Twitter](https://twitter.com/your-twitter-handle)
