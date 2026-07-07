@@ -65,28 +65,11 @@ class Sophearum:
 
 ---
 
-### Stats That Speak
-
-<div align="center">
-  <a href="https://github.com/sirbluee">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sirbluee&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=6e40c9&icon_color=6e40c9&text_color=c9d1d9&include_all_commits=true" />
-  </a>
-  <a href="https://github.com/sirbluee">
-    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=sirbluee&theme=dark&hide_border=true&background=0d1117&ring=6e40c9&fire=6e40c9&currStreakLabel=6e40c9&sideLabels=c9d1d9&dates=c9d1d9&currStreakNum=ffffff&sideNums=ffffff" />
-  </a>
-</div>
-
 <br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=sirbluee&bg_color=0d1117&color=6e40c9&line=6e40c9&point=ffffff&area=true&area_color=6e40c9&hide_border=true" width="100%"/>
 
 ---
-
-### Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/sirbluee/sirbluee/output/github-snake-dark.svg" alt="Snake animation" />
-</div>
 
 ---
 
